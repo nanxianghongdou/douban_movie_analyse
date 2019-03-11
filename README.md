@@ -3,6 +3,7 @@
 #!/usr/bin/env python
 # _*_coding:utf-8_*_
 # Author: DDZZxiaohongdou
+'''
 import requests
 from bs4 import BeautifulSoup
 from pandas import DataFrame
@@ -378,6 +379,6 @@ en4.bind('<Return>', data_inquire_entry4)
 text = scrolledtext.ScrolledText(root, width=120, height=20)
 text.grid(row=6, columnspan=5,padx=20,pady=10)
 root.mainloop()
-
+'''
 
 
